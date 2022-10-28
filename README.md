@@ -3,7 +3,7 @@
 INSTRUCTIONS FOR RUNNING THE TESTS
 1. Run npm install
 2. Resolve if there is any dependency conflicts(there shouldn't be any)
-3. Run 'appium-doctor' and install and set up all the necessary tools to run Appium
+3. Run 'appium-doctor' and install& set up all the necessary tools to run Appium
 4. Keep the Apk inside /app/android/ folder
 5. 'npm wido' to run the tests
 6. Make sure to bring the appium server and the emulator up and running
